@@ -1,0 +1,29 @@
+.location {
+    background-color: var(--bg-card);
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+    border: 1px solid black;
+    border-radius: 0.8em;
+
+}
+.location__title {
+    color: var(--color-green);
+    text-align: center;
+    padding: 1rem;
+}
+.location__list {
+    padding: 1rem;
+}
+.location__label {
+    color: white;
+    
+}
+
+.location__item-value {
+    color: grey;
+    padding-left: 2rem; 
+}
+
